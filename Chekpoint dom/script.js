@@ -61,6 +61,5 @@ for (let i = 0; i < produit.length; i++) {
         totalCommande += totalProduit;
       }
       document.getElementById('tyu').innerText = totalCommande;
-    });
-  }
+    });}
 }
